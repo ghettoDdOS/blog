@@ -1,0 +1,10 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "scripts": {
+    "docs": "node docs.js"
+  },
+  "dependencies": {
+    "widdershins": "^4.0.1"
+  }
+}
